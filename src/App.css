@@ -1,0 +1,48 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+
+.Foto{
+  width: 140px;
+  height: 140px;
+  border-radius: 100%;
+  border: 4px solid #000;
+  display: flex;
+  justify-content: block;
+  align-items: center;
+  max-width: 100%;
+}
+.cont-foto{
+  align-items: center;
+  justify-content: center ;
+  display: flex;
+  margin-top: 30px;
+}
+.icono-menu{
+  width: 15px;
+  height: 15px;
+  color: aqua;
+  display: flex;
+}
+
+a{
+  text-decoration: none;
+  background-color: #272727;
+  color: #ffd562;
+  margin: 5px 55px 0 55px;
+  text-align: center;
+  justify-content: center;
+  display: flex;
+}
+
+.redes{
+  margin-top: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
+
